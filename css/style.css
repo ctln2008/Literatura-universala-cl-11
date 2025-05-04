@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://mflibreria.cl/wp-content/uploads/2024/09/literatura-chilena-2.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+h3, p1 {
+    color:azure;
+}
